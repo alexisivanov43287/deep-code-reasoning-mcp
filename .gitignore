@@ -3,3 +3,4 @@ dist/
 *.log
 .venv/
 build/
+.pytest_cache/
